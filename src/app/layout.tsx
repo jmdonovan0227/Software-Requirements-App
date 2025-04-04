@@ -41,7 +41,7 @@ export default function RootLayout({
             </main>
 
             <footer className='flex justify-center items-center w-full h-[7.5vh] border-t-2 border-gray-200'>
-              <h1 className='text-sm md:text-md italic'>@2025 SR App All Rights Reserved</h1>
+              <h1 className='text-sm md:text-md italic'>@2025 Software Requirements App All Rights Reserved</h1>
             </footer>
           </body>
         </html>
